@@ -120,5 +120,3 @@ elapsed_time = end_time - start_time # Tính thời gian đã trôi qua
 print(f"Thời gian thực thi: {elapsed_time:.4f} giây")
 
 
-git config --global user.email "ng.t.ann2003"
-  git config --global user.name "ngTamAn111103"

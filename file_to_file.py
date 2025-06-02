@@ -1,6 +1,5 @@
 # Lấy tất cả ảnh và video trong 1 root nhiều con ra 1 folder
-# input_directory = "C:\\\\Users\\\\ANNGUYEN\\\\Downloads\\\\PHOTOS"  # Ví dụ: "C:\\\\Users\\\\YourUser\\\\Videos"
-#     output_directory = "A:\\\\Google Photos\\\\A"   # Ví dụ: "C:\\\\Users\\\\YourUser\\\\MovedVideos"
+
 
 import os
 import shutil
